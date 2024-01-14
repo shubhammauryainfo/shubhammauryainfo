@@ -8,7 +8,8 @@
 - 📫 How to reach me https://www.linkedin.com/in/shubham-maurya-17078a266/
 
 # 🛠 &nbsp;Tech Stack
-
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+  
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -32,7 +33,6 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Intelli J Idea](https://img.shields.io/badge/IntelliJ--333333?style=flat&logo=intellijidea)
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
-
 <!---
 shubhammauryainfo/shubhammauryainfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
