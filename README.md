@@ -8,7 +8,7 @@
 - 📫 How to reach me https://www.linkedin.com/in/shubham-maurya-17078a266/
 
 # 🛠 &nbsp;Tech Stack
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif"/>
+  <img align="right" alt="GIF" src="https://i.giphy.com/jTNG3RF6EwbkpD4LZx.webp"/>
   
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
