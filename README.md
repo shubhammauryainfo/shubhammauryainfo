@@ -1,11 +1,11 @@
-#<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Shubham Maurya</h1>
+<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Shubham Maurya</h1>
 
 - 👨‍🔬 Exploring new technologies and developing software solutions
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning React JS,Node JS , PHP.
 - 💞️ I’m looking to collaborate on PYTHON Project.
 - 😄 Passionate about accessibility and committed to a web that works for everyone
-- 🖥️ <a href="https://www.shubhammaurya.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-PORTFOLIO-blue?style=flat-square&logo=google-chrome"></a>
+- 🖥️ <a href="https://shubhammaurya.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-PORTFOLIO-blue?style=flat-square&logo=google-chrome"></a>
 - 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-maurya-17078a266/)
 
 # 🛠 &nbsp;Tech Stack
