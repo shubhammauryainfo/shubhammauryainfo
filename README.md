@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Shubham Maurya</h1>
+#<h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Shubham Maurya</h1>
 
 - 👨‍🔬 Exploring new technologies and developing software solutions
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning React JS,Node JS , PHP.
 - 💞️ I’m looking to collaborate on PYTHON Project.
 - 😄 Passionate about accessibility and committed to a web that works for everyone
-- 🖥️ Portfolio https://shubhammaurya.vercel.app/ 
-- 📫 How to reach me https://www.linkedin.com/in/shubham-maurya-17078a266/
+- 🖥️ <a href="https://www.shubhammaurya.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-PORTFOLIO-blue?style=flat-square&logo=google-chrome"></a>
+- 📫 How to reach me [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-maurya-17078a266/)
 
 # 🛠 &nbsp;Tech Stack
  <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -36,8 +36,8 @@
   ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=pycharm&logoColor=2C2255)
 
 # 📊&nbsp;GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhammauryainfo&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhammauryainfo&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=shubhammauryainfo&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=shubhammauryainfo&show_icons=true&theme=dracula)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammauryainfo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
