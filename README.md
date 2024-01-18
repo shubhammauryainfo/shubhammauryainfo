@@ -1,6 +1,6 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Shubham Maurya</h1>
 
-- 👨‍🔬 Exploring new technologies and developing software solutions
+- 👨‍🔬 Exploring new technologies and developing Business solutions
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning React JS,Node JS , PHP.
 - 💞️ I’m looking to collaborate on PYTHON Project.
