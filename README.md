@@ -2,7 +2,7 @@
 
 - 👨‍🔬 Exploring new technologies and developing Business solutions
 - 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning React JS,Node JS , PHP.
+- 🌱 I’m currently learning PHP Laravel.
 - 💞️ I’m looking to collaborate on PYTHON Project.
 - 😄 Passionate about accessibility and committed to a web that works for everyone
 - 🖥️ <a href="https://shubhammaurya.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Website-PORTFOLIO-blue?style=flat-square&logo=google-chrome"></a>
