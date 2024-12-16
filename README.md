@@ -44,8 +44,8 @@
 
 # 📊&nbsp;GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shubhammauryainfo&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=shubhammauryainfo&show_icons=true&theme=dracula)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammauryainfo&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=shubhammauryainfo&show_icons=true&theme=neon)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhammauryainfo&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
