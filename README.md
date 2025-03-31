@@ -15,15 +15,16 @@
   ![C](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   <!-- ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=PHP&logoColor=276DC3) -->
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
    ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=Tailwindcss) 
  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+ ![Next.js](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
+ ![SpringBoot](https://img.shields.io/badge/SpringBoot-333333?style=flat&logo=Spring&logoColor=white)
+ ![Laravel](https://img.shields.io/badge/Laravel-333333?style=flat&logo=laravel&logoColor=white)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
    <!--  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular) -->
 - 🛢 &nbsp;
