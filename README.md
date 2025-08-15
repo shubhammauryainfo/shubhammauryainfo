@@ -16,6 +16,7 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
   <!-- ![PHP](https://img.shields.io/badge/-php-333333?style=flat&logo=PHP&logoColor=276DC3) -->
 - 🌐 &nbsp;
   <img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
